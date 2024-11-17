@@ -45,6 +45,7 @@ The robot’s design and assembly process consists of several stages:
 The robot was designed in Tinkercad, and after the design was verified, the robot was assembled. The design process included connecting the motors to the chassis, wiring the L298N motor driver to the motors and Arduino, and connecting the Bluetooth module for remote control.
 
 ### Tinkercad Design
+(I used H-Bridge because Motor Control doesn't exist in TinkerCad)
 
 <img src="https://github.com/user-attachments/assets/233e4e39-ca8d-4481-a6ad-9b1aeff60e86" width="800">
 
